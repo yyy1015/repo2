@@ -7,15 +7,26 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ssm_05_dao" />
+        <module name="ssm_05_domain" />
         <module name="ssm_05_service" />
+        <module name="ssm_05_utils" />
         <module name="ssm_05_web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="dubbo-admin" target="1.6" />
       <module name="ssm_05" target="1.5" />
       <module name="ssm_05_dao" target="1.8" />
+      <module name="ssm_05_domain" target="1.8" />
       <module name="ssm_05_service" target="1.8" />
+      <module name="ssm_05_utils" target="1.8" />
       <module name="ssm_05_web" target="1.8" />
+      <module name="ssm_dao" target="1.8" />
+      <module name="ssm_domain" target="1.8" />
+      <module name="ssm_project" target="1.5" />
+      <module name="ssm_service" target="1.8" />
+      <module name="ssm_utils" target="1.8" />
+      <module name="ssm_web" target="1.8" />
       <module name="ssn11" target="1.5" />
       <module name="sss03" target="1.5" />
       <module name="yyy_002" target="1.5" />

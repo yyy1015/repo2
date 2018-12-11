@@ -1,0 +1,8 @@
+cn\itcast\yyy\domain\SysLog.class
+cn\itcast\yyy\domain\UserInfo.class
+cn\itcast\yyy\domain\Role.class
+cn\itcast\yyy\domain\Member.class
+cn\itcast\yyy\domain\Permission.class
+cn\itcast\yyy\domain\Product.class
+cn\itcast\yyy\domain\Traveller.class
+cn\itcast\yyy\domain\Orders.class

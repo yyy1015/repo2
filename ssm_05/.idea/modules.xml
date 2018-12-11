@@ -4,8 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ssm_05.iml" filepath="$PROJECT_DIR$/ssm_05.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm_05_dao/ssm_05_dao.iml" filepath="$PROJECT_DIR$/ssm_05_dao/ssm_05_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_05_domain/ssm_05_domain.iml" filepath="$PROJECT_DIR$/ssm_05_domain/ssm_05_domain.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm_05_service/ssm_05_service.iml" filepath="$PROJECT_DIR$/ssm_05_service/ssm_05_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_05_utils/ssm_05_utils.iml" filepath="$PROJECT_DIR$/ssm_05_utils/ssm_05_utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm_05_web/ssm_05_web.iml" filepath="$PROJECT_DIR$/ssm_05_web/ssm_05_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sssmm/sssmm.iml" filepath="$PROJECT_DIR$/sssmm/sssmm.iml" />
     </modules>
   </component>
 </project>
